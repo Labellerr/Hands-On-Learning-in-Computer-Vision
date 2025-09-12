@@ -138,7 +138,7 @@ terminado @ file:///croot/terminado_1671751832461/work
 threadpoolctl==3.6.0
 tinycss2 @ file:///croot/tinycss2_1738337643607/work
 tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
-torch==2.7.1
+torch==2.8.0
 torchvision==0.22.1
 tornado @ file:///croot/tornado_1748956929273/work
 tqdm==4.67.1
