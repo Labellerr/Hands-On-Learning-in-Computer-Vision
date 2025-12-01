@@ -25,7 +25,7 @@ executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///croot/python-fastjsonschema_1731939362158/work
 filelock==3.18.0
 filterpy==1.4.5
-fonttools==4.58.4
+fonttools==4.61.0
 fsspec==2025.5.1
 ftfy==6.3.1
 gdown==5.2.0
