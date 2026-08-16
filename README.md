@@ -18,7 +18,7 @@
           />
       </a>
       <img src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20template/blank.png" width="3%"/>
-      <a href="https://www.labellerr.com/">
+      <a href="https://www.labellerr.com/?utm_source=github&utm_medium=social&utm_campaign=github_clicks">
           <img
             src="https://storage.googleapis.com/labellerr-cdn/%200%20Labellerr%20GitHub%20Readme%20Assets/Logo2.svg"
             width="5%"
