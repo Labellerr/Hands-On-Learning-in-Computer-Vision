@@ -23,9 +23,9 @@ defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 exceptiongroup @ file:///croot/exceptiongroup_1706031385326/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///croot/python-fastjsonschema_1731939362158/work
-filelock==3.18.0
+filelock==3.20.3
 filterpy==1.4.5
-fonttools==4.58.4
+fonttools==4.60.2
 fsspec==2025.5.1
 ftfy==6.3.1
 gdown==5.2.0
